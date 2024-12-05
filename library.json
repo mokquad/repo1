@@ -1,0 +1,47 @@
+{
+    "name": "PurpleProject Library",
+    "identifier": "com.purpleproject.ist.internal",
+    "subtitle": "PurpleProject Demo repo",
+    "iconURL": "",
+    "website": "",
+    "sourceURL": "https://raw.githubusercontent.com/mokquad/repo/main/library.json",
+    "tintColor": "",
+    "featuredApps": [
+        "purpleproject.??"
+    ],
+    "crypto": {
+        "btc": "xxx"
+    },
+    "apps": [
+        {
+            "name": "BlumeChat",
+            "bundleIdentifier": "com.blume.zmessages",
+            "developerName": "PurpleProject Limited 25",
+            "version": "2.0",
+            "versionDate": "2024-12-05",
+            "downloadURL": "https://archive.org/download/unknown-tags-archive/Radar/com.apple.ist.radar_v4.5-4.5.ipa",
+            "localizedDescription": "Best app on the world",
+            "iconURL": "xx",
+            "tintColor": "8b5bb7",
+            "size": 790259,
+            "screenshotURLs": [
+                "xx"
+            ]
+        },
+        {
+            "name": "????",
+            "bundleIdentifier": "com.PurpleProject.???",
+            "developerName": "PurpleProject Limited 25",
+            "version": "1.0.1",
+            "versionDate": "2024-06-08",
+            "downloadURL": "dl=1",
+            "localizedDescription": "demo",
+            "iconURL": "?",
+            "tintColor": "",
+            "size": 790259,
+            "screenshotURLs": [
+                ""
+            ]
+        },
+    ]
+}
